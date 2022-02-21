@@ -1,14 +1,16 @@
-### Project-_HTN
+# Project_HTN
 
-#Execute project PRI_recognition
+### Execute project PRI_recognition:
 
-*Step 1: Data Gathering
+* Step 1: Data Gathering
   .Run code -> face_video.py
   
-*Step 2: Train the recognizer
+* Step 2: Train the recognizer
   .Run code -> face_train.py
   
-*Step 3: Recognition
+* Step 3: Recognition
   .Run code -> face_rec.py
  
  *-----GOOD LUCK-----*
+ 
+ © 2021 ThDanh
