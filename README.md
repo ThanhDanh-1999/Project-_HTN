@@ -1,6 +1,27 @@
-# Project_HTN
+# Project_Embedded_Systems (FACIAL RECOGNITION with OpenCV-Python)
 
-### Execute project PRI_recognition:
+### In this repo:
+
+* source code of facial recognition with OpenCV-Python
+
+* The README.md file to show the homepage of this repo
+
+
+### Contents:
+* Embedded Systems Design Flow
+
+* Connect Raspberry Pi to Laptop
+
+* Data Gathering
+
+* Train the Recognizer
+
+* Recognition
+
+* Result Demo
+
+
+### Execute project on Raspberry (Facial Recognition):
 
 * Step 1: Data Gathering
   .Run code -> face_video.py
@@ -11,6 +32,6 @@
 * Step 3: Recognition
   .Run code -> face_rec.py
  
- *-----GOOD LUCK-----*
+ 
  
  © 2021 ThDanh
